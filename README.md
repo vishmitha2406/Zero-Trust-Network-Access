@@ -1,6 +1,6 @@
 # Zero-Trust-Network-Access
 
-📖 Overview
+<h3>📖 Overview</h3>
 
 The NFC-Based Zero-Trust Payment System is a secure, real-time, and contactless payment solution developed using microcontroller technology. This system leverages Near Field Communication (NFC) and Zero-Trust Security Architecture to enable fast, secure, and touchless financial transactions.
 
@@ -16,9 +16,9 @@ Providing real-time transaction updates
 
 Minimizing human intervention in the payment process
 
-✨ Features
+<h3>✨ Features</h3>
 
-Core Features
+<h4>Core Features</h4>
 
 ✅ Tap-to-Pay Functionality: Instant payment by tapping NFC-enabled cards or devices
 
@@ -34,7 +34,7 @@ Core Features
 
 ✅ Database Integration: Cloud-based user and transaction management
 
-Optional Features
+<h4>Optional Features</h4>
 
 🔹 Biometric Authentication: Fingerprint verification for high-security transactions
 
@@ -42,9 +42,9 @@ Optional Features
 
 🔹 Bluetooth Connectivity: Communication with mobile devices
 
-⚙️ Working Principle
+<h3>⚙️ Working Principle</h3>
 
-Authentication Flow
+<h4>Authentication Flow</h4>
 
 User Taps Card: NFC card/tag is placed near RFID-RC522 reader
 
@@ -60,7 +60,7 @@ Real-Time Update: Updates database and displays confirmation
 
 Notification: Sends SMS/display confirmation
 
-Security Implementation (Zero-Trust Model)
+<h3>Security Implementation (Zero-Trust Model)</h3>
 
 ✅ Never Trust, Always Verify: Every transaction requires authentication
 
@@ -70,7 +70,7 @@ Security Implementation (Zero-Trust Model)
 
 ✅ Real-Time Monitoring: Instant fraud detection
 
-🚀 Future Work
+<h3>🚀 Future Work</h3>
 
 Payment Network Integration: Interface with Visa, Mastercard, or UPI
 
@@ -96,7 +96,7 @@ Dynamic Currency Conversion: International payment support
 
 Data Analytics Dashboard: Merchant insights and trend analysis
 
-📝 Conclusion
+<h3>📝 Conclusion</h3>
 
 The NFC-Based Zero-Trust Payment System successfully demonstrates a secure, efficient, and user-friendly contactless payment solution. By leveraging Arduino, RFID technology, and cloud databases, the system addresses the limitations of traditional payment methods—eliminating physical contact, reducing transaction times, and minimizing fraud risks.
 
@@ -104,7 +104,7 @@ The implementation of Zero-Trust principles ensures security at every transactio
 
 This project establishes a strong foundation for future innovations in digital payments, contributing to a smarter, more secure, and contactless financial ecosystem for retail, cafeterias, public transport, and beyond.
 
-👥 Team Members
+<h3>👥 Team Members</h3>
 
 Name	Registration Number	Department
 Roshini	111524202043	Computer Science and Business System
