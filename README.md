@@ -1,6 +1,7 @@
 # Zero-Trust-Network-Access
 
 📖 Overview
+
 The NFC-Based Zero-Trust Payment System is a secure, real-time, and contactless payment solution developed using microcontroller technology. This system leverages Near Field Communication (NFC) and Zero-Trust Security Architecture to enable fast, secure, and touchless financial transactions.
 
 The project aims to revolutionize traditional payment methods by:
@@ -16,7 +17,9 @@ Providing real-time transaction updates
 Minimizing human intervention in the payment process
 
 ✨ Features
+
 Core Features
+
 ✅ Tap-to-Pay Functionality: Instant payment by tapping NFC-enabled cards or devices
 
 ✅ Real-Time Processing: Instant balance updates and transaction confirmations
@@ -32,6 +35,7 @@ Core Features
 ✅ Database Integration: Cloud-based user and transaction management
 
 Optional Features
+
 🔹 Biometric Authentication: Fingerprint verification for high-security transactions
 
 🔹 Mobile App Integration: User dashboard for balance checks and transaction history
@@ -39,7 +43,9 @@ Optional Features
 🔹 Bluetooth Connectivity: Communication with mobile devices
 
 ⚙️ Working Principle
+
 Authentication Flow
+
 User Taps Card: NFC card/tag is placed near RFID-RC522 reader
 
 UID Capture: Reader captures the unique identifier
@@ -55,6 +61,7 @@ Real-Time Update: Updates database and displays confirmation
 Notification: Sends SMS/display confirmation
 
 Security Implementation (Zero-Trust Model)
+
 ✅ Never Trust, Always Verify: Every transaction requires authentication
 
 ✅ Encryption: Data encrypted during transmission
@@ -64,6 +71,7 @@ Security Implementation (Zero-Trust Model)
 ✅ Real-Time Monitoring: Instant fraud detection
 
 🚀 Future Work
+
 Payment Network Integration: Interface with Visa, Mastercard, or UPI
 
 Multi-Factor Authentication: Add PIN/OTP for high-value transactions
@@ -89,6 +97,7 @@ Dynamic Currency Conversion: International payment support
 Data Analytics Dashboard: Merchant insights and trend analysis
 
 📝 Conclusion
+
 The NFC-Based Zero-Trust Payment System successfully demonstrates a secure, efficient, and user-friendly contactless payment solution. By leveraging Arduino, RFID technology, and cloud databases, the system addresses the limitations of traditional payment methods—eliminating physical contact, reducing transaction times, and minimizing fraud risks.
 
 The implementation of Zero-Trust principles ensures security at every transaction step, while real-time database updates provide immediate feedback and transparency. The system's modular design allows for easy upgrades and integration of additional features like biometrics and AI-powered fraud detection.
@@ -96,6 +105,7 @@ The implementation of Zero-Trust principles ensures security at every transactio
 This project establishes a strong foundation for future innovations in digital payments, contributing to a smarter, more secure, and contactless financial ecosystem for retail, cafeterias, public transport, and beyond.
 
 👥 Team Members
+
 Name	Registration Number	Department
 Roshini	111524202043	Computer Science and Business System
 Sahana G	111524202045	Computer Science and Business System
